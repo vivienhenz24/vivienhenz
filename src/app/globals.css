@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Unica&display=swap');
+
 @import "tailwindcss";
 
 :root {
@@ -20,7 +22,7 @@
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f8f8f8;
+  color: black;
+  font-family: Helvetica, sans-serif;
 }
